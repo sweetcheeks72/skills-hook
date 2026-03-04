@@ -1,4 +1,5 @@
 ---
+name: code-reviewer
 description: Use when reviewing code, checking pull requests, identifying bugs, or suggesting improvements. Provides structured code review feedback.
 ---
 

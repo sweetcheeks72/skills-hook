@@ -1,4 +1,5 @@
 ---
+name: hello-world
 description: Use when greeting users, saying hello, or welcoming someone. Provides friendly, warm responses.
 ---
 
