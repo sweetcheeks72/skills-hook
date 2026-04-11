@@ -1,3 +1,7 @@
+⚠️ This repo has been archived. Development continues in the [helios monorepo](https://github.com/helios-agi/helios) under `packages/skills-hook/`
+
+---
+
 # Claude Code Skills Hook
 
 A forced evaluation hook system that significantly improves Claude Code's autonomous skill activation reliability.
